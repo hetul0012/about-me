@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+main{
+   margin: 50px;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    margin: 10px 0px;
+    color: red;
+}
+p{
+    width: 800px;
+    color:orange;
+    font-weight: 700;
+    margin: 10px 0px;
+}
+img{
+    width: 25px;
+    margin-left: 10px;
+}
+.skills-detail h3{
+    margin:10px 0px;
+}
+.skills-detail ul{
+    margin-left: 30px;
+}
