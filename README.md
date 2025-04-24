@@ -15,5 +15,5 @@ SCSS | Shopify | Github
 
 <br>
 <a href="https://github.com/hetul0012">
-<img src="./images/github.png" width="25">
+<img src="./images/github-white.png" width="25">
 </a>
